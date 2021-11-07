@@ -1,1 +1,0 @@
-package test.syntax.tech;
